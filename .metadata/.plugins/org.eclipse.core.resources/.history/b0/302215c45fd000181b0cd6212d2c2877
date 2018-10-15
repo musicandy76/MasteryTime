@@ -1,0 +1,6 @@
+package com.websystique.spring.configuration;
+
+@Configuration
+public class HelloWorldConfig {
+
+}
